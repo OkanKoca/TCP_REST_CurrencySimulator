@@ -1,0 +1,24 @@
+[
+  {
+    "id" : 1,
+    "rateName": "PF2_USDTRY",
+    "bid": 36.1911,
+    "ask": 36.6074,
+    "timestamp": "2025-03-02T10:15:30"
+  },
+  {
+    "id" : 2,
+    "rateName": "PF2_EURUSD",
+    "bid": 1.0374,
+    "ask": 1.0376,
+    "timestamp": "2025-03-02T10:15:30"
+  },
+  {
+    "id" : 3,
+    "rateName": "PF2_GBPUSD",
+    "bid": 1.2569,
+    "ask": 1.2584,
+    "timestamp": "2025-03-02T10:15:30"
+  }
+]
+

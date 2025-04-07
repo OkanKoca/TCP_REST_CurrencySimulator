@@ -1,0 +1,5 @@
+  subscribe PF1_USDTRY
+   unsubscribe PF1_EURUSD
+   unsubscribe PF1_USDTRY
+   subscribe PF1_GBPUSD
+  unsubscribe PF1_GBPUSD
